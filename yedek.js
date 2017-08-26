@@ -1,0 +1,15 @@
+    <Scene 
+    key="discovery"
+    component={DiscoveryPage}
+    title="DiscoveryPage"
+    />
+    <Scene 
+    key="message"
+    component={MessagePage}
+    title="MessagePage"
+    />
+    <Scene 
+    key="notification"
+    component={NotificationPage}
+    title="NotificationPage"
+    />
